@@ -13,5 +13,3 @@ K-means clustering is a technique that groups "n" observations into "k" distinct
 After running the K-means algorithm, we find out that the RGB values of it's most dominant colour are: [128, 170, 8] and by using the Matplotlib library, we can graphically represnt the distinct clusters:
 ![Example Kmeans Image](https://github.com/Gurik-M/Kmeans-Dominant-Colour-Detection/blob/master/Images/example_kmeans_graph.png)
 
-
-
