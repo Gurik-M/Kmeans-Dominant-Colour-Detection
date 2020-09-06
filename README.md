@@ -1,5 +1,5 @@
-# Kmeans Dominant Colour Detection
-A k-means clustering computer vision algorithm for detecting the dominant color in an image.
+# K-means Dominant Colour Detection
+A k-means clustering algorithm for detecting the dominant color in an image.
 
 
 ## Overview
